@@ -70,7 +70,7 @@ environments {
     }
     production {
         grails.logging.jul.usebridge = false
-        grails.serverURL = "https://www.rateus.org.uk/"
+        grails.serverURL = "http://ec2-54-217-77-42.eu-west-1.compute.amazonaws.com:8080"
     }
 }
 
